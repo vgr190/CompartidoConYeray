@@ -18,11 +18,11 @@ public class Main {
             }else {
                 System.out.println("Demasiados popochos");
             }
-        }
+
         for(int i=0;i<n;i++){
 
 
-        System.out.println("el popocho " +i+1 +"ZZZzzz");
+        System.out.println("el popocho " +(i+1) +" está ZZZzzz");
         }
 
     }
